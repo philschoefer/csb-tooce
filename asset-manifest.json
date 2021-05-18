@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://philschoefer.github.io/csb-tooce/static/css/main.e23cf0c7.chunk.css",
+    "main.js": "https://philschoefer.github.io/csb-tooce/static/js/main.ac7366a0.chunk.js",
+    "main.js.map": "https://philschoefer.github.io/csb-tooce/static/js/main.ac7366a0.chunk.js.map",
+    "runtime-main.js": "https://philschoefer.github.io/csb-tooce/static/js/runtime-main.d519e01b.js",
+    "runtime-main.js.map": "https://philschoefer.github.io/csb-tooce/static/js/runtime-main.d519e01b.js.map",
+    "static/js/2.d40ef0d7.chunk.js": "https://philschoefer.github.io/csb-tooce/static/js/2.d40ef0d7.chunk.js",
+    "static/js/2.d40ef0d7.chunk.js.map": "https://philschoefer.github.io/csb-tooce/static/js/2.d40ef0d7.chunk.js.map",
+    "index.html": "https://philschoefer.github.io/csb-tooce/index.html",
+    "static/css/main.e23cf0c7.chunk.css.map": "https://philschoefer.github.io/csb-tooce/static/css/main.e23cf0c7.chunk.css.map",
+    "static/js/2.d40ef0d7.chunk.js.LICENSE.txt": "https://philschoefer.github.io/csb-tooce/static/js/2.d40ef0d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d519e01b.js",
+    "static/js/2.d40ef0d7.chunk.js",
+    "static/css/main.e23cf0c7.chunk.css",
+    "static/js/main.ac7366a0.chunk.js"
+  ]
+}
